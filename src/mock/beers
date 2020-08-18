@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Buzz",
+    "tagline": "A Real Bitter Experience."
+  },
+  {
+    "id": 2,
+    "name": "Trashy Blonde",
+    "tagline": "You Know You Shouldn't"
+  },
+  {
+    "id": 3,
+    "name": "Berliner Weisse With Yuzu - B-Sides",
+    "tagline": "Japanese Citrus Berliner Weisse."
+  },
+  {
+    "id": 4,
+    "name": "Pilsen Lager",
+    "tagline": "Unleash the Yeast Series."
+  },
+  {
+    "id": 5,
+    "name": "Avery Brown Dredge",
+    "tagline": "Bloggers' Imperial Pilsner."
+  }
+]

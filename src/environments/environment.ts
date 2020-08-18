@@ -4,6 +4,7 @@
 
 export const environment = {
   production: false,
+  mock: false,
   endpoint: 'https://api.punkapi.com/v2/',
 };
 
