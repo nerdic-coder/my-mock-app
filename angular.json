@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-mock-app"
+    }
+  },
+  "defaultProject": "my-mock-app",
+  "cli": {
+    "analytics": "6f610c9a-4265-4f50-aa61-422f75ad616b"
+  }
 }
